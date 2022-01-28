@@ -1,0 +1,29 @@
+body {
+  font-family: "Mochiy Pop P One", sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-size: 40px;
+}
+.yellow {
+  color: orange;
+}
+.one {
+  width: 40%;
+  float: left;
+}
+.one img {
+  max-width: 100%;
+}
+.ml {
+  margin-left: 7%;
+  padding-right: 3%;
+}
+.mr {
+  margin-right: 7%;
+  padding-left: 3%;
+}
+.one p {
+  color: gray;
+}
